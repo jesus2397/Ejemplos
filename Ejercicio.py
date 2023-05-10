@@ -1,4 +1,5 @@
 
+#Contador de motivos
 def count_substring(cadena,motivo):
     contador=0
     base=0
